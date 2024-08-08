@@ -2,4 +2,4 @@ streamlit
 pandas
 networkx
 pymed
-plotyly
+plotly
